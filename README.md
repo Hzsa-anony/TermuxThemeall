@@ -9,7 +9,6 @@ TermuxTheme, this is one of the best Termux themer that used to switch Termux fr
 * Termux Only.
 * Working On Others Like Kali Linux,ParrotSec,Ubuntu etc.
 *
-* DONATE ME TO MAKE IT BE AVAILABLE ON ANY OS.
 
 ### THE TOOL REQUIREMENTS:
 * Termux From Fdroid
@@ -23,7 +22,7 @@ TermuxTheme, this is one of the best Termux themer that used to switch Termux fr
 * `pkg upgrade -y`
 * `pkg install git -y`
 ```
-git clone https://github.com/..................
+git clone https://github.com/Hzsa-anony/TermuxThemeall
 ```
 * `cd TermuxTheme`
 * `chmod 777 *`
